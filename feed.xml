@@ -5,17 +5,25 @@
     <description>A personal mix: the latest episodes from Oliver's favorite podcasts, refreshed daily.</description>
     <link>https://github.com/</link>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Oct 2026 13:51:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 13:51:31 +0000</lastBuildDate>
     <itunes:author>Oliver</itunes:author>
     <itunes:summary>A personal mix: the latest episodes from Oliver's favorite podcasts, refreshed daily.</itunes:summary>
     <itunes:explicit>yes</itunes:explicit>
     <item>
-      <title>Oliver's Daily Brief — October 17, 2026</title>
-      <description>Saturday edition: last hot day before the rain, a brand-new OC wildfire, Friday's market rout, Trump waives the Russia sanctions, and the Dodgers get swept.</description>
-      <pubDate>Sat, 17 Oct 2026 13:09:46 +0000</pubDate>
-      <guid isPermaLink="false">brief:olivers-daily-brief-october-17-2026-2026-10-17</guid>
-      <enclosure url="https://muse.ai/podcasts/media/429785753546860/b81a5248-0d79-425a-a80c-2677d816e968/ep-c42fd0cb-433c-4251-956a-0bd0168343c5.mp3" length="0" type="audio/mpeg" />
-      <itunes:duration>0:16:55</itunes:duration>
+      <title>Oliver's Daily Brief — October 18, 2026</title>
+      <description>Sunday edition: Trump's Russia-sanctions waiver holds as the GOP revolts, Ukraine's biggest drone strike of the year, Schneider-PTC confirmed at $22.6B, and the first rain of the season arrives Wednesday.</description>
+      <pubDate>Sun, 18 Oct 2026 13:07:20 +0000</pubDate>
+      <guid isPermaLink="false">brief:olivers-daily-brief-october-18-2026-2026-10-18</guid>
+      <enclosure url="https://muse.ai/podcasts/media/429785753546860/b81a5248-0d79-425a-a80c-2677d816e968/ep-395e5c8b-7d38-4fb9-8e50-e094f1601b3d.mp3" length="0" type="audio/mpeg" />
+      <itunes:duration>0:17:10</itunes:duration>
+    </item>
+    <item>
+      <title>No Stupid Questions: 97. Are Women Really Less Happy Than Men?</title>
+      <description>&lt;p&gt;Why are women unhappier than men? What can we do to move the needle? And is it better to be happy or to be good? This episode originally aired on May 1st, 2022.&lt;/p&gt;&lt;br/&gt; &lt;p&gt;Hosted by Simplecast, an AdsWizz company. See &lt;a href="https://pcm.adswizz.com"&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for advertising.&lt;/p&gt;</description>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">37691475-946c-4315-ab5c-3b678a10a62b</guid>
+      <enclosure url="https://pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/fab071f4-583a-498c-a495-58f7d4c71242/episodes/b136f1c1-eb0b-4577-bdb2-5fed162a9040/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fab071f4-583a-498c-a495-58f7d4c71242&amp;awEpisodeId=b136f1c1-eb0b-4577-bdb2-5fed162a9040&amp;feed=dfh_verV" length="34978418" type="audio/mpeg" />
+      <itunes:duration>00:36:26</itunes:duration>
     </item>
     <item>
       <title>Stuff You Should Know: Selects: Sacagawea: Impressive Teen</title>
@@ -300,14 +308,6 @@ Learn more about your ad choices. Visit podcastchoices.com/adchoices</descriptio
       <guid isPermaLink="false">37246 at https://www.thisamericanlife.org</guid>
       <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/12c2bc83-3713-4c97-8ba1-1da73c0fc7a4/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&amp;awEpisodeId=12c2bc83-3713-4c97-8ba1-1da73c0fc7a4&amp;nocache" length="0" type="audio/mpeg" />
       <itunes:duration>01:03:12</itunes:duration>
-    </item>
-    <item>
-      <title>No Stupid Questions: 96. Why is Chick-fil-A Such a Big Deal?</title>
-      <description>&lt;p&gt;How did Chick-fil-A become the third-largest restaurant chain in the U.S.? Why does it serve salad? And can Angie’s moral compass override her craving for a chicken sandwich? This episode originally aired on April 24th, 2022.&lt;/p&gt;&lt;br/&gt; &lt;p&gt;Hosted by Simplecast, an AdsWizz company. See &lt;a href="https://pcm.adswizz.com"&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for advertising.&lt;/p&gt;</description>
-      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">4f8e60e1-c85d-44c9-b10c-f0ea891d91e2</guid>
-      <enclosure url="https://pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/fab071f4-583a-498c-a495-58f7d4c71242/episodes/5bca68af-2f10-4a7b-9e4a-8892414b02ab/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fab071f4-583a-498c-a495-58f7d4c71242&amp;awEpisodeId=5bca68af-2f10-4a7b-9e4a-8892414b02ab&amp;feed=dfh_verV" length="26724142" type="audio/mpeg" />
-      <itunes:duration>00:27:50</itunes:duration>
     </item>
   </channel>
 </rss>
