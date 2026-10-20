@@ -5,7 +5,7 @@
     <description>A personal mix: the latest episodes from Oliver's favorite podcasts, refreshed daily.</description>
     <link>https://github.com/</link>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2026 13:51:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 14:56:14 +0000</lastBuildDate>
     <itunes:author>Oliver</itunes:author>
     <itunes:summary>A personal mix: the latest episodes from Oliver's favorite podcasts, refreshed daily.</itunes:summary>
     <itunes:explicit>yes</itunes:explicit>
@@ -206,6 +206,14 @@ Learn more about your ad choices. Visit podcastchoices.com/adchoices</descriptio
       <itunes:duration>6356</itunes:duration>
     </item>
     <item>
+      <title>The Automation Ladies: Building Ignition: Colby Clegg on Innovation, AI, and the Future of Industrial Automation</title>
+      <description>&lt;p&gt;🫆 Thank you to our amazing sponsor &lt;a href='https://inductiveautomation.com/'&gt;&lt;b&gt;&lt;em&gt;Inductive Automation &lt;/em&gt;&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;______________________________________________________________&lt;/p&gt;&lt;p&gt;Industrial automation doesn’t need more hype. It needs tools that solve real plant problems, survive real uptime demands, and still play nicely with modern IT. We sit down with Colby Clegg, CEO of Inductive Automation, to unpack how Ignition grew out of a systems integrator’s breaking point: the cost and pain of getting PLC data into SQL databases and into the hands of people who could actually use it.&lt;br/&gt;&lt;br/&gt;From there, we zoom out on OT IT convergence and why the divide persists. We talk about OPC UA, open platforms, and the very different risk tolerances that shape engineering decisions on the plant floor versus the enterprise. Colby shares how Inductive hires a lot of software and computer science talent, then teaches the industrial context, and why that approach can challenge the “this is how we’ve always done it” mindset without ignoring the reality of downtime, compliance, and safety.&lt;br/&gt;&lt;br/&gt;Finally, we get specific about what’s new: the arc from Ignition 8.3 toward Ignition 2027, the push for infrastructure independence with containerization, orchestration, and source control friendly configuration, and how that openness intersects with AI in manufacturing. We’re candid about the distance between impressive generative AI output and a production ready control system, why guardrails matter, and why legacy upgrades are becoming a cybersecurity issue, not just a maintenance task. If you enjoy the conversation, subscribe, share it with a friend in OT or IT, and leave a review so more automation folks can find the show.&lt;/p&gt;&lt;p&gt;______________________________________________________________&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buzzsprout.com/2053051/support"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;_________________________________________________________________&lt;br/&gt;&lt;br/&gt;🎙 Abou</description>
+      <pubDate>Thu, 15 Oct 2026 08:00:00 -0500</pubDate>
+      <guid isPermaLink="false">Buzzsprout-19965487</guid>
+      <enclosure url="https://www.buzzsprout.com/2053051/episodes/19965487-building-ignition-colby-clegg-on-innovation-ai-and-the-future-of-industrial-automation.mp3" length="42461131" type="audio/mpeg" />
+      <itunes:duration>3535</itunes:duration>
+    </item>
+    <item>
       <title>Stuff You Should Know: The Disappearance of Dorothy Arnold</title>
       <description>&lt;p&gt;When socialite Dorothy Arnold disappeared in 1910, no one imagined the case would remain forever unsolved. Today we tell her story.&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
       <pubDate>Thu, 15 Oct 2026 09:00:00 +0000</pubDate>
@@ -292,14 +300,6 @@ Want us to review your budget? Fill out </description>
       <guid isPermaLink="false">PniQ4HGfM9SA6dUYA4kGW6vUBVqFPmBk</guid>
       <enclosure url="https://pscrb.fm/rss/p/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/serve.castfire.com/audio/8437903/8437903_2026-06-08-150303.192.mp3?rssID=5935" length="44205453" type="audio/mpeg" />
       <itunes:duration>1841</itunes:duration>
-    </item>
-    <item>
-      <title>Filmspotting: Top 5 of 1991 | Archive</title>
-      <description>&lt;p&gt;The 1991 movie year turns 35 this year. &lt;em&gt;T2, Barton Fink, Boys in the Hood&lt;/em&gt;. In 2014, Adam and Josh looked back a mere 23 years for their Top 5 of '91.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
-      <pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
-      <guid isPermaLink="false">de5a0c73-3a89-4388-beb2-b4e20145b8ef</guid>
-      <enclosure url="https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/d28227f8-56d8-46d9-b2c5-b3d3012db5ab/de5a0c73-3a89-4388-beb2-b4e20145b8ef/audio.mp3?utm_source=Podcast&amp;in_playlist=83c52568-54c6-438a-8751-b3d3012db5c3" length="27063297" type="audio/mpeg" />
-      <itunes:duration>1688</itunes:duration>
     </item>
   </channel>
 </rss>
