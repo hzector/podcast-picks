@@ -5,17 +5,79 @@
     <description>A personal mix: the latest episodes from Oliver's favorite podcasts, refreshed daily.</description>
     <link>https://github.com/</link>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2026 14:56:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 13:51:31 +0000</lastBuildDate>
     <itunes:author>Oliver</itunes:author>
     <itunes:summary>A personal mix: the latest episodes from Oliver's favorite podcasts, refreshed daily.</itunes:summary>
     <itunes:explicit>yes</itunes:explicit>
     <item>
-      <title>Oliver's Daily Brief — October 20, 2026</title>
-      <description>Tuesday edition: the Tangent call game plan, Wednesday's rain, Netflix earnings, and a Brewers–Rays World Series.</description>
-      <pubDate>Tue, 20 Oct 2026 13:07:29 +0000</pubDate>
-      <guid isPermaLink="false">brief:olivers-daily-brief-october-20-2026-2026-10-20</guid>
-      <enclosure url="https://muse.ai/podcasts/media/429785753546860/b81a5248-0d79-425a-a80c-2677d816e968/ep-affa1634-cd46-49c0-9f72-edcebf74c197.mp3" length="0" type="audio/mpeg" />
-      <itunes:duration>0:15:54</itunes:duration>
+      <title>Oliver's Daily Brief — October 21, 2026</title>
+      <description>Wednesday edition: Musk's Starlink throttle, Netflix's beat-and-punish, Super Typhoon Champi heads for Taiwan, and Rockwell vs Siemens in the industrial-AI thunderdome.</description>
+      <pubDate>Wed, 21 Oct 2026 13:10:16 +0000</pubDate>
+      <guid isPermaLink="false">brief:olivers-daily-brief-october-21-2026-2026-10-21</guid>
+      <enclosure url="https://muse.ai/podcasts/media/429785753546860/b81a5248-0d79-425a-a80c-2677d816e968/ep-05b5d51b-f14d-44c8-9196-b975064d77e8.mp3" length="0" type="audio/mpeg" />
+      <itunes:duration>0:17:28</itunes:duration>
+    </item>
+    <item>
+      <title>Ignited: Striking Industrial Automation Conversations: Why the Knowledge Model Is the Missing Layer in Your Industrial Data Architecture</title>
+      <description>&lt;p&gt;Most manufacturers have more data than they know what to do with, yet none of it speaks the same language or reflects how the factory actually operates. When operational issues arise, teams are often left calling specific individuals who hold critical system relationships entirely in their heads. In this episode, Travis and Tom sit down with Jeff Knepper and Graeme Welton from Flow Software, alongside Ryan Crownover from Vertech, to explore what it takes to build an industrial data architecture that goes beyond basic connectivity and dashboards. They discuss how a true knowledge model maps real-world relationships between assets, processes, people, systems, and events, fundamentally transforming raw operational data into actionable enterprise intelligence.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Guests:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li class="ProsemirrorEditor-listItem"&gt;
+&lt;p&gt;Jeff Knepper (Flow Software)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li class="ProsemirrorEditor-listItem"&gt;
+&lt;p&gt;Graeme Welton (Flow Software)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li class="ProsemirrorEditor-listItem"&gt;
+&lt;p&gt;Ryan Crownover (Vertech)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <pubDate>Wed, 21 Oct 2026 04:00:00 -0700</pubDate>
+      <guid isPermaLink="false">ignitedpod.podbean.com/97adf79a-2b7a-367f-b638-b18a20bddcbc</guid>
+      <enclosure url="https://mcdn.podbean.com/mf/web/vctawdj953xy4uui/IGNITED_Episode_23_Flow_Software.mp3" length="55723945" type="audio/mpeg" />
+      <itunes:duration>3482</itunes:duration>
+    </item>
+    <item>
+      <title>Stuff You Should Know: Short Stuff: Spooky Recommendations</title>
+      <description>&lt;p&gt;This week Josh and Chuck are trying something a little different, some recomemdations for the spooky season. For Josh, it's some movies, for Chuck, it's some books. Check it out and let us know what you think!&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
+      <pubDate>Wed, 21 Oct 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2d4c56af-e3b8-456b-a22b-b4e801104d0a</guid>
+      <enclosure url="https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2d4c56af-e3b8-456b-a22b-b4e801104d0a/audio.mp3?utm_source=Podcast&amp;in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e" length="14626503" type="audio/mpeg" />
+      <itunes:duration>912</itunes:duration>
+    </item>
+    <item>
+      <title>Planet Money: We try to fix election polling (update)</title>
+      <description>Polling is facing an existential crisis. People aren't picking up the phone. Nobody wants to talk to pollsters. Trust is on the line. We pluck a solution from the economics canon and convince a polling firm to let us test it. &lt;br/&gt;&lt;br/&gt;Today on the show, we head to Marist College — home of the Marist Poll — to learn how to be pollsters ourselves. We learn the great moments in polling history, the latest science of polling, and find out all the tricks that pollsters use to get people to finish their surveys. Then we get on the phone and give it a try ourselves. And offer some of our own solutions. &lt;br/&gt;&lt;br/&gt;This episode was &lt;a href="https://www.npr.org/2022/11/04/1134434712/planet-money-tries-election-polling"target="_blank"   &gt;originally published&lt;/a&gt; before the 2022 midterm elections. &lt;br/&gt;&lt;br/&gt;We have an update on our idea to save polling, which Marist is still testing, and we find out what it might be able to tell us about the 2026 midterms. &lt;br/&gt;&lt;br/&gt;&lt;em&gt;Music: "&lt;/em&gt;&lt;a href="https://npr.sourceaudio.com/track/22447336"target="_blank"   &gt;&lt;em&gt;Partyline&lt;/em&gt;&lt;/a&gt;&lt;em&gt;, "&lt;/em&gt;&lt;a href="https://npr.sourceaudio.com/track/38874305"target="_blank"   &gt;&lt;em&gt;The Danzig Connection&lt;/em&gt;&lt;/a&gt;&lt;em&gt;, and "&lt;/em&gt;&lt;a href="https://npr.sourceaudio.com/track/41204479"target="_blank"   &gt;&lt;em&gt;Saku&lt;/em&gt;&lt;/a&gt;&lt;em&gt;"&lt;/em&gt;&lt;br/&gt;&lt;br/&gt;&lt;em&gt;Read: &lt;/em&gt;&lt;br/&gt;&lt;br/&gt;Our book:&lt;a href="https://lnk.to/i3AukBdD"target="_blank"   &gt; Planet Money: A Guide to the Economic Forces That Shape Your Life&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;Our weekly longform&lt;a href="https://n.pr/3zrFvUB"target="_blank"   &gt; Planet Money newsletter&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Our weekly&lt;a href="https://www.npr.org/newsletter/indicator"target="_blank"   &gt; Indicator round-up newsletter&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;br&gt;&lt;em&gt;Follow: &lt;/em&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="https://n.pr/3FqLuws"target="_blank"   &gt;Instagram&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="https://n.pr/3sGZdrq"target="_blank"   &gt;TikTok&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="https://lnk.to/iCVDaW3C"target="_blank"   &gt;YouTube&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="https://n.pr/3h92GwS"target="_</description>
+      <pubDate>Wed, 21 Oct 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">e23755e3-6b21-4507-a5e7-3620e2f4618e</guid>
+      <enclosure url="https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f797d163-3173-4fad-9265-17db457ab4dc/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&amp;awEpisodeId=f797d163-3173-4fad-9265-17db457ab4dc&amp;feed=hvWWWzRv&amp;t=podcast&amp;e=nx-s1-6009849&amp;p=510289&amp;d=1799&amp;size=28788698" length="28788698" type="audio/mpeg" />
+      <itunes:duration>1799</itunes:duration>
+    </item>
+    <item>
+      <title>What We Spend: The Ups and Downs of IVF</title>
+      <description>&lt;p&gt;Amanda and her wife are going through IVF, a process that's taxing emotionally, physically, and financially. Their families come from different worlds, one blue-collar and one affluent, and they're responding in very different ways.&lt;/p&gt;</description>
+      <pubDate>Wed, 21 Oct 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">P0WCfwDXE9WQlQAPJ7o7YDJfUe9Tn89D</guid>
+      <enclosure url="https://pscrb.fm/rss/p/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/serve.castfire.com/audio/8437906/8437906_2026-06-08-150806.192.mp3?rssID=5935" length="47915049" type="audio/mpeg" />
+      <itunes:duration>1996</itunes:duration>
+    </item>
+    <item>
+      <title>Filmspotting: Top 5 Sofia Coppola Scenes | Archive</title>
+      <description>&lt;p&gt;Sofia Coppola's Marie Antoinette is back in theaters this week for its 20th anniversary. In 2017, along with a review of Coppola's The Beguiled, Josh and guest host Angelica Jade Bastien shared their Top 5 Sofia Coppola Scenes.&lt;/p&gt; &lt;p&gt;Unlock the full archive, Filmspotting Discord, ad‑free + bonus episodes, and more when you ⁠join&amp;nbsp;&lt;a href="https://filmspotting.supportingcast.fm/join?sc_promo=summer"&gt;the Filmspotting Family⁠&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
+      <pubDate>Wed, 21 Oct 2026 05:00:00 +0000</pubDate>
+      <guid isPermaLink="false">7955ad7d-6eb4-4b0e-b157-b4e9015ddddf</guid>
+      <enclosure url="https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/d28227f8-56d8-46d9-b2c5-b3d3012db5ab/7955ad7d-6eb4-4b0e-b157-b4e9015ddddf/audio.mp3?utm_source=Podcast&amp;in_playlist=83c52568-54c6-438a-8751-b3d3012db5c3" length="27034517" type="audio/mpeg" />
+      <itunes:duration>1688</itunes:duration>
+    </item>
+    <item>
+      <title>Freakonomics Radio: Are Private Equity Firms Plundering the U.S. Economy? (Update)</title>
+      <description>&lt;p&gt;They say they make companies more efficient through savvy management. Critics say they bend the rules to enrich themselves at the expense of consumers and employees. Can they both be right? (Probably not.)&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;SOURCES:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.linkedin.com/in/brendan-ballou-2546801b7/" rel="noopener noreferrer"&gt;&lt;u&gt;Brendan Ballou&lt;/u&gt;&lt;/a&gt;, C.E.O. of the Public Integrity Project.&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.linkedin.com/in/dan-glickberg-b539476a/" rel="noopener noreferrer"&gt;&lt;u&gt;Dan Glickberg&lt;/u&gt;&lt;/a&gt;, venture-capital investor.&lt;/li&gt;&lt;li&gt;&lt;a href="https://hannahhoward.nyc/" rel="noopener noreferrer"&gt;&lt;u&gt;Hannah Howard&lt;/u&gt;&lt;/a&gt;, food writer.&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.linkedin.com/in/sachinkhajuria/" rel="noopener noreferrer"&gt;&lt;u&gt;Sachin Khajuria&lt;/u&gt;&lt;/a&gt;, investor.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;RESOURCES:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://amzn.to/3SJapSL" rel="noopener noreferrer"&gt;&lt;i&gt;&lt;u&gt;Plunder: Private Equity's Plan to Pillage America&lt;/u&gt;&lt;/i&gt;&lt;/a&gt;&lt;i&gt;, &lt;/i&gt;by Brendan Ballou (2023).&lt;/li&gt;&lt;li&gt;&lt;a href="https://amzn.to/3SM83m3" rel="noopener noreferrer"&gt;&lt;i&gt;&lt;u&gt;Two and Twenty: How the Masters of Private Equity Always Win&lt;/u&gt;&lt;/i&gt;&lt;/a&gt;&lt;i&gt;, &lt;/i&gt;by Sachin Khajuria (2022).&lt;/li&gt;&lt;li&gt;"&lt;a href="https://www.nber.org/papers/w29743" rel="noopener noreferrer"&gt;&lt;u&gt;Local Journalism under Private Equity Ownership&lt;/u&gt;&lt;/a&gt;," by Michael Ewens, Arpit Gupta, and Sabrina T. Howell (&lt;i&gt;NBER Working Paper, &lt;/i&gt;2022).&lt;/li&gt;&lt;li&gt;“&lt;a href="https://www.nber.org/papers/w28474" rel="noopener noreferrer"&gt;&lt;u&gt;Owner Incentives and Performance in Healthcare: Private Equity Investment in Nursing Homes&lt;/u&gt;&lt;/a&gt;,” by Atul Gupta, Sabrina T. Howell, Constantine Yannelis, and Abhinav Gupta (&lt;i&gt;NBER Working Paper, &lt;/i&gt;2021).&lt;/li&gt;&lt;li&gt;“&lt;a href="https://www.sciencedirect.com/science/article/abs/pii/S1544612320301549" rel="noopener noreferrer"&gt;&lt;u&gt;Leveraged Buyouts and Financial Distress&lt;/u&gt;&lt;/a&gt;,” by Brian Ayash and Mahdi Rastad (&lt;i&gt;Finance Research Letters, &lt;/i&gt;2021).&lt;/li</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">bb279a80-202e-498a-bf40-77a3af56e323</guid>
+      <enclosure url="https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ba033623-4d2f-483b-8b11-2620ffa44371/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&amp;awEpisodeId=ba033623-4d2f-483b-8b11-2620ffa44371&amp;feed=Y8lFbOT4" length="46155900" type="audio/mpeg" />
+      <itunes:duration>00:48:04</itunes:duration>
     </item>
     <item>
       <title>Stuff You Should Know: Winnie the Pooh: Silly Old Bear</title>
@@ -251,55 +313,6 @@ Want us to review your budget? Fill out </description>
       <guid isPermaLink="false">397c7a8f-5540-4d6c-b099-f51b68415fee</guid>
       <enclosure url="https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/084ba938-c183-4ec2-badc-45cdefc666ba/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&amp;awEpisodeId=084ba938-c183-4ec2-badc-45cdefc666ba&amp;feed=dHoohVNH" length="25181307" type="audio/mpeg" />
       <itunes:duration>00:26:13</itunes:duration>
-    </item>
-    <item>
-      <title>The Economics of Everyday Things: 82. Chain Restaurant Recipes</title>
-      <description>&lt;p&gt;A fast-food burger has to taste the same — and cost the same — thousands of times a day at restaurants across the country. Zachary Crockett mans the fryer. This episode was originally published on March 2nd, 2025.&lt;/p&gt;&lt;br/&gt; &lt;p&gt;Hosted by Simplecast, an AdsWizz company. See &lt;a href="https://pcm.adswizz.com"&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for advertising.&lt;/p&gt;</description>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">e1ecbf7e-b0d3-4d2c-bc65-3f9ea062b2c8</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/51058430-d98f-4830-b949-5d9a371523ce/episodes/c6d65abb-eb44-444b-a05b-f03b604451ac/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=51058430-d98f-4830-b949-5d9a371523ce&amp;awEpisodeId=c6d65abb-eb44-444b-a05b-f03b604451ac&amp;feed=ob9OSBIN" length="15986352" type="audio/mpeg" />
-      <itunes:duration>00:16:39</itunes:duration>
-    </item>
-    <item>
-      <title>Planet Money: Wanna slow down AI? These biologists can help.</title>
-      <description>Fifty years ago, scientists pioneering a terrifying gene-splicing technology figured out a way to collectively hit pause. Can we do it again with AI? &lt;br/&gt;&lt;br/&gt;We ask because some top AI industry leaders are saying the technology they’re pushing forward is moving too quickly … and might kill us all. They’re effectively saying, ‘Please, please regulate us! Slow us down! Tie our hands!’ &lt;br/&gt;&lt;br/&gt;But, by and large, they’re not slowing down, because they don’t want to be left behind. In other words, it’s a classic collective action problem. A type of problem that’s scary, but solvable. We’ve been here before. &lt;br/&gt;&lt;br/&gt;In 1975, a group of scientists holed up for four days on California's foggy Central Coast to stop the runaway technology of their generation: a new DNA splicing technology that they feared could cause mass death. On today’s show, how they set aside ambition and competition to stop a runaway technology. &lt;br/&gt;&lt;br/&gt;&lt;em&gt;Live Show: &lt;/em&gt;&lt;br/&gt;&lt;br/&gt;&lt;ul class="rte2-style-ul"&gt;&lt;li&gt;&lt;a href="https://kilkenomics.com/"target="_blank"   &gt;Planet Money Live at Kilkenomics. Kilkenny, Ireland Nov. 6th - 7th&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;em&gt;Read Planet Money: &lt;/em&gt;&lt;br/&gt;&lt;br/&gt;&lt;ul class="rte2-style-ul"&gt;&lt;li&gt;Our book: &lt;a href="https://lnk.to/i3AukBdD"target="_blank"   &gt;Planet Money: A Guide to the Economic Forces That Shape Your Life&lt;/a&gt; &lt;/li&gt;&lt;li&gt;Our weekly longform &lt;a href="https://n.pr/3zrFvUB"target="_blank"   &gt;Planet Money newsletter&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Our weekly &lt;a href="https://www.npr.org/newsletter/indicator"target="_blank"   &gt;Indicator round-up newsletter&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;em&gt;Follow Planet Money: &lt;/em&gt;&lt;br/&gt;&lt;br/&gt;&lt;ul class="rte2-style-ul"&gt;&lt;li&gt;&lt;a href="https://n.pr/3FqLuws"target="_blank"   &gt;Instagram&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://n.pr/3sGZdrq"target="_blank"   &gt;TikTok&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://lnk.to/iCVDaW3C"target="_blank"   &gt;YouTube&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://n.pr/3h92GwS"target="_blank"   &gt;Facebook&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;em&gt;Listen to more Planet Money: &lt;/em&gt;&lt;br/&gt;&lt;br/&gt;&lt;ul class="rte2-style-ul"&gt;&lt;li&gt;Ou</description>
-      <pubDate>Wed, 14 Oct 2026 21:30:18 +0000</pubDate>
-      <guid isPermaLink="false">b297c28a-87e4-4b96-92e0-e64b7b581948</guid>
-      <enclosure url="https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/fe8692b3-52a9-469e-a8ea-d46bc049377c/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&amp;awEpisodeId=fe8692b3-52a9-469e-a8ea-d46bc049377c&amp;feed=hvWWWzRv&amp;t=podcast&amp;e=nx-s1-6002910&amp;p=510289&amp;d=1750&amp;size=28012130" length="28012130" type="audio/mpeg" />
-      <itunes:duration>1750</itunes:duration>
-    </item>
-    <item>
-      <title>Song Exploder: DJ Shadow - Mutual Slump</title>
-      <description>&lt;p&gt;30 years ago, DJ Shadow released his debut album, &lt;em&gt;Entroducing…&lt;/em&gt; and it changed my life. I listened to it so much. And when I first started Song Exploder, he was on my list of dream guests. And then 10 years ago, that dream came true, and I got to make an episode with him in honor of the 20th anniversary of the album. Well, now it’s the 30th anniversary, and DJ Shadow is on tour this fall, celebrating it with a set that just focuses on songs from &lt;em&gt;Endtroducing&lt;/em&gt;… And, there’s a special edition of the album on vinyl. So, in the spirit of all that, I wanted to go back to this episode of Song Exploder from back in 2016. &lt;/p&gt;&lt;p&gt;For more info, visit &lt;a href="https://songexploder.net/dj-shadow"&gt;&lt;strong&gt;songexploder.net/dj-shadow.&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
-      <pubDate>Wed, 14 Oct 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">prx_93_e442f410-2bff-4106-8a44-4e6289ea056d</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/93/e442f410-2bff-4106-8a44-4e6289ea056d/SongExploder91-DJShadow-Reissue-Part1.mp3" length="23065852" type="audio/mpeg" />
-      <itunes:duration>16:02</itunes:duration>
-    </item>
-    <item>
-      <title>Ignited: Striking Industrial Automation Conversations: The Historian, Reimagined: Inductive Automation and Tiger Data's Partnership for Enterprise-Grade Time-Series Data</title>
-      <description>&lt;p&gt;Traditional industrial historians often struggle to scale across modern, multi-site enterprise environments without introducing support risks or performance bottlenecks. In this episode, we talk with Mike from Tiger Data and Colby from Inductive Automation about their joint partnership designed to deliver an enterprise-grade time-series data backend for Ignition. They share the story behind TimescaleDB's open-source adoption, the production challenges of running unsupported databases in mission-critical manufacturing, and how their new commercial solution provides high availability, enhanced Hyperfunctions, and scalable deployment options from edge to cloud.&lt;/p&gt;
-&lt;p&gt;Guest: Mike Freedman (Tiger Data / TimescaleDB) &amp;amp; Colby Clegg (Inductive Automation)&lt;/p&gt;</description>
-      <pubDate>Wed, 14 Oct 2026 04:00:00 -0700</pubDate>
-      <guid isPermaLink="false">ignitedpod.podbean.com/f4449416-125b-328d-8a71-3173a4e3cdf9</guid>
-      <enclosure url="https://mcdn.podbean.com/mf/web/4abkambbam3g3k9e/IGNITED_Episode_22_Colby_and_Mike.mp3" length="42665822" type="audio/mpeg" />
-      <itunes:duration>1770</itunes:duration>
-    </item>
-    <item>
-      <title>Stuff You Should Know: Short Stuff: Currency Symbols</title>
-      <description>&lt;p&gt;In today's shorty, Josh and Chuck go over the stories behind some of the world's currency symbols.&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
-      <pubDate>Wed, 14 Oct 2026 09:00:00 +0000</pubDate>
-      <guid isPermaLink="false">65aec1de-d4db-465a-851d-b4e20124b771</guid>
-      <enclosure url="https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/65aec1de-d4db-465a-851d-b4e20124b771/audio.mp3?utm_source=Podcast&amp;in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e" length="12588946" type="audio/mpeg" />
-      <itunes:duration>785</itunes:duration>
-    </item>
-    <item>
-      <title>What We Spend: I’m Obligated To Think About Privilege, Even If it’s Painful</title>
-      <description>&lt;p&gt;Charlie, a recent college grad, comes from a wealthy family—and he has complicated feelings about it. That's part of what drew him to a job in the Netherlands, which he hopes might offer a greater sense of equality, its stronger public services, and overall better “vibes” than the US. We follow Charlie through his first week in the workforce and see how it changes the way he thinks about money, privilege, and his own country.&lt;/p&gt;</description>
-      <pubDate>Wed, 14 Oct 2026 07:00:00 +0000</pubDate>
-      <guid isPermaLink="false">PniQ4HGfM9SA6dUYA4kGW6vUBVqFPmBk</guid>
-      <enclosure url="https://pscrb.fm/rss/p/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/serve.castfire.com/audio/8437903/8437903_2026-06-08-150303.192.mp3?rssID=5935" length="44205453" type="audio/mpeg" />
-      <itunes:duration>1841</itunes:duration>
     </item>
   </channel>
 </rss>
