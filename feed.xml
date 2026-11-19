@@ -5,11 +5,21 @@
     <description>A personal mix: fresh episodes from Oliver's favorite podcasts, a few at a time, refreshed daily.</description>
     <link>https://github.com/</link>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Nov 2026 14:21:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 14:21:05 +0000</lastBuildDate>
     <itunes:author>Oliver</itunes:author>
     <itunes:summary>A personal mix: fresh episodes from Oliver's favorite podcasts, a few at a time, refreshed daily.</itunes:summary>
     <itunes:explicit>yes</itunes:explicit>
     <itunes:image href="https://raw.githubusercontent.com/hzector/podcast-picks/main/o-fresh-cover.png" />
+    <item>
+      <title>Hyperfixed: Dance like nobody’s watching</title>
+      <description>&lt;p&gt;Another segment from our recent live show in Brooklyn! We learn about the work and neuroscience behind the Dance for PD program which offers specialized dance classes to people with Parkinson's. &lt;/p&gt;&lt;p&gt;Hyperfixed only exists because of your support. Please consider becoming a premium member. In addition to helping us stay afloat, you'll get bonus episodes, access to our discord, discounts on merch and live shows, and much more.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.hyperfixedpod.com/join"&gt;&lt;strong&gt;hyperfixedpod.com/join&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;LINKS:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://danceforparkinsons.org/"&gt;&lt;strong&gt;Dance for PD&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+Learn about your ad choices: &lt;a href="https://dovetail.prx.org/ad-choices"&gt;dovetail.prx.org/ad-choices&lt;/a&gt;</description>
+      <pubDate>Thu, 19 Nov 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">prx_8013_93006c2d-da81-449b-9583-7eef22a2dfe1</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/pdrl.fm/6745cb/pscrb.fm/rss/p/dovetail.prxu.org/8013/93006c2d-da81-449b-9583-7eef22a2dfe1/Hyperfixed_20261118_Ep105_DanceforPD_v3_TW.mp3" length="56711320" type="audio/mpeg" />
+      <itunes:duration>39:22</itunes:duration>
+    </item>
     <item>
       <title>What We Spend: To Move Or Not to Move?</title>
       <description>&lt;p&gt;Sadie is a single mom raising her 14-year-old daughter in Ohio, in the same house she grew up in herself. Now, she’s thinking about moving to Portugal, where her grandparents immigrated from. The thing is – she’s never been there. We’ll follow Sadie as she considers whether to leave behind the only home she’s ever known for a chance at a completely different life.&lt;/p&gt;&lt;p&gt;&lt;br&gt;If you want to be on What We Spend, we'd love to hear from you. Write us at &lt;a target="_blank" rel="noopener noreferrer nofollow" href="mailto:whatwespendpodcast@gmail.com"&gt;whatwespendpodcast@gmail.com&lt;/a&gt;&lt;/p&gt;</description>
@@ -25,6 +35,30 @@
       <guid isPermaLink="false">9253befc-02d8-4e85-8f13-57849164e903</guid>
       <enclosure url="https://episodes.captivate.fm/episode/9253befc-02d8-4e85-8f13-57849164e903.mp3" length="42806479" type="audio/mpeg" />
       <itunes:duration>29:43</itunes:duration>
+    </item>
+    <item>
+      <title>NerdWallet's Smart Money Podcast: College or Retirement? How New Parents Can Build Wealth Without Shortchanging Either</title>
+      <description>Learn how to balance saving for your kid’s college with your own retirement when you’re a new parent.
+
+How do you balance saving for your kid’s college with saving for your own retirement? Hosts Sean Pyles, CFP®, and Elizabeth Ayoola talk with Brittany, a Chicago listener and new mom, about building wealth for her growing family as a $2,700-a-month daycare bill looms. You’ll hear how to figure out how much to put into a 529 plan when future college costs feel impossible to predict, what a college savings calculator reveals when the hosts run the numbers live, and why many parents aim to cover only part of the bill. They also discuss whether trimming 401(k) contributions after having a baby could still leave you on pace, and why couples who save for retirement separately could benefit from setting a shared goal.
+
+What does generational wealth actually look like? Brittany explains why she and her husband held on to their first condo and now rent it out, and the hosts dig into how home equity, life insurance and a dedicated housing sinking fund fit into a long-term wealth plan. Then they turn to estate planning for new parents, including why updating beneficiaries could be one of the quickest wins.
+
+Check your retirement progress, compare college savings accounts and get your family’s information organized:
+
+Retirement Calculator: https://www.nerdwallet.com/investing/calculators/retirement-calculator
+
+Saving for College? Find the Right Investment Account for You: https://www.nerdwallet.com/investing/learn/the-best-future-for-your-child-college-savings-strategies
+
+College savings calculator: https://www.fidelity.com/misc/college-savings/college_savings.html
+
+KinWell by BestFarewell - Get your family ready, long before anyone needs it.: https://www.bestfarewell.com
+
+Want us to review your budget? Fill out this form — completely anonymously if you want — and we might feature your budget in a future segment! https://docs.google.com/forms/d/e/1FAIpQLScK53yAufsc4v5UpghhVfxtk</description>
+      <pubDate>Mon, 16 Nov 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">5be0b010-e17e-11f1-81a9-3b5ae8082b9c</guid>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pfx.vpixl.com/ImlsU/mgln.ai/e/211/tracking.swap.fm/track/YfZO4tERxneauNcW9Fgn/pscrb.fm/rss/p/traffic.megaphone.fm/ARML6900346187.mp3" length="0" type="audio/mpeg" />
+      <itunes:duration>2209</itunes:duration>
     </item>
     <item>
       <title>Where Should We Begin? with Esther Perel: I Cut Off My Dad. Why Doesn't It Feel Over?</title>
@@ -59,6 +93,14 @@ Learn more about your ad choices. Visit podcastchoices.com/adchoices</descriptio
       <guid isPermaLink="false">776fa342-9f60-482e-831d-22ce9e8ce7f4</guid>
       <enclosure url="https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/6c847913-67c6-4074-afe3-216bdd0bb526/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&amp;awEpisodeId=6c847913-67c6-4074-afe3-216bdd0bb526&amp;feed=dHoohVNH" length="57903343" type="audio/mpeg" />
       <itunes:duration>01:00:18</itunes:duration>
+    </item>
+    <item>
+      <title>The Economics of Everyday Things: 91. Roller Coasters</title>
+      <description>&lt;p&gt;A new thrill ride can cost an amusement park $20 million or more — but roller coasters attract customers like nothing else. Zachary Crockett must be at least this tall to host this episode. This episode was originally published on May 4th, 2025.&lt;/p&gt;&lt;br/&gt; &lt;p&gt;Hosted by Simplecast, an AdsWizz company. See &lt;a href="https://pcm.adswizz.com"&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for advertising.&lt;/p&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 01:00:00 +0000</pubDate>
+      <guid isPermaLink="false">d0562fd3-5a87-4f9d-ab13-c82244ae2492</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/51058430-d98f-4830-b949-5d9a371523ce/episodes/b0b2f8a4-897a-437a-8639-88c69e414c06/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=51058430-d98f-4830-b949-5d9a371523ce&amp;awEpisodeId=b0b2f8a4-897a-437a-8639-88c69e414c06&amp;feed=ob9OSBIN" length="21610411" type="audio/mpeg" />
+      <itunes:duration>00:22:30</itunes:duration>
     </item>
     <item>
       <title>This American Life: 902: The Missing Minutes</title>
@@ -119,39 +161,12 @@ Learn more about your ad choices. Visit podcastchoices.com/adchoices</descriptio
       <itunes:duration>00:56:27</itunes:duration>
     </item>
     <item>
-      <title>Ignited: Striking Industrial Automation Conversations: The Talent Gap: How the Industrial Automation Industry Finds Its Next Generation of Engineers</title>
-      <description>&lt;p&gt;This episode addresses one of the most pressing challenges in digital transformation and industrial automation: the critical shortage of skilled controls and SCADA engineers. Recorded live at the Ignition Community Conference (ICC) 2026, hosts Travis and Tom discuss what is driving this workforce gap, what it costs integrators and end users when positions remain unfilled, and how the pipeline of new engineering talent can be strengthened. The conversation also highlights the launch of Cognify Connect, a purpose-built platform designed to connect Ignition-certified engineers directly with the organizations that need them.&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt;Guest: Kianni Brown&lt;/p&gt;</description>
-      <pubDate>Thu, 12 Nov 2026 10:06:32 -0800</pubDate>
-      <guid isPermaLink="false">ignitedpod.podbean.com/072463ab-0038-34b1-b18b-7d231ce1d031</guid>
-      <enclosure url="https://mcdn.podbean.com/mf/web/76rdmbx72kb7yy2e/IGNITED_Episode_26_Cognify_Kianni_Brown.mp3" length="27182731" type="audio/mpeg" />
-      <itunes:duration>1686</itunes:duration>
-    </item>
-    <item>
-      <title>The Automation Ladies: Beyond Defect Detection: How Overview AI Is Transforming Machine Vision with Russell Nibbelink</title>
-      <description>&lt;p&gt;AI machine vision has been “almost ready” for a long time, but factory teams do not get paid for hype. They get paid for fewer defects, less scrap, higher yield, and systems that actually survive real production. I sit down with Russell, co-founder of Overview AI, to talk about what finally feels different and why their approach stood out to me after years around industrial automation and machine vision.&lt;br/&gt;&lt;br/&gt;We dig into the unglamorous truth: vision succeeds or fails on installation details like lighting, lensing, part presentation, and integration. Russell shares how Overview AI brings self-driving style AI into a controlled factory environment, then makes the first deployment easier through customer success support and self-service tools. We also talk about the buying side, including transparent pricing and why they moved away from SaaS subscriptions toward a one-time purchase model that matches CapEx budgets and helps plants justify ROI quickly.&lt;br/&gt;&lt;br/&gt;Then we get into the big unlock: generative AI and synthetic data generation for defect detection. Instead of waiting for rare bad parts, teams can generate realistic scratches, dents, bubbles, or missing components to train models and, just as important, to validate inspection coverage before turning on automated rejects. From there, we zoom out to manufacturing intelligence: dashboards and HMI-friendly views that turn inspection results into Pareto charts, shift trends, and continuous improvement signals that cut waste and boost throughput. We also touch on safety-critical use cases, upcoming anomaly detection for PCBA, and what an “onboard agent” could mean for integrators and distributors.&lt;br/&gt;&lt;br/&gt;If you care about factory quality inspection, AI vision systems, scrap reduction, and faster time to value in industrial automation, you’ll get a lot from this conversation. Subscribe, share this with a controls or manufacturing friend, and leave a review with the biggest vision challenge you want solved ne</description>
-      <pubDate>Thu, 12 Nov 2026 07:00:00 -0600</pubDate>
-      <guid isPermaLink="false">Buzzsprout-20114518</guid>
-      <enclosure url="https://www.buzzsprout.com/2053051/episodes/20114518-beyond-defect-detection-how-overview-ai-is-transforming-machine-vision-with-russell-nibbelink.mp3" length="41970970" type="audio/mpeg" />
-      <itunes:duration>3495</itunes:duration>
-    </item>
-    <item>
-      <title>Filmspotting: Direct to Camera, Pt. 2 — You Can See Everything</title>
-      <description>&lt;p&gt;The title of Nathan Fielder and Lance Oppenheim&amp;rsquo;s &lt;em&gt;You Can See Everything &lt;/em&gt;is reflective of the film&amp;rsquo;s interest in radical transparency, but also ironic in that one of its major themes turns out to be the unknowability of other people's intentions. We get into spoiler-filled detail about all of that and more this week, before bringing Albert Brooks&amp;rsquo; 1979 feature debut &lt;em&gt;Real Life &lt;/em&gt;back&lt;em&gt; &lt;/em&gt;in for Connections to see how these two comedic deconstructions of the documentary form engage with the innate artificiality of nonfiction filmmaking. Then for Your Next Picture Show, we recommend another surprisingly comedic take on the Elizabeth Holmes saga, the 2022 limited series &lt;em&gt;The Dropout.&lt;/em&gt;&lt;em&gt;&lt;/em&gt;&lt;/p&gt; &lt;p&gt;Please share your thoughts about&lt;em&gt; Real Life, You Can See Everything&lt;/em&gt;, or anything else in the world of film, by sending an email or voice memo to &lt;a href="mailto:comments@nextpictureshow.net"&gt;comments@nextpictureshow.net&lt;/a&gt;, or leaving a short voicemail at &lt;a href="tel:(773)%20234-9730"&gt;(773) 234-9730&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;Next pairing: Peter Farrelly&amp;rsquo;s&amp;nbsp;&lt;em&gt;I Play Rocky &lt;/em&gt;and John G. Avildsen&amp;rsquo;s &lt;em&gt;Rocky&lt;/em&gt;&lt;em&gt;&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;This episode is presented by⁠ ⁠⁠⁠⁠⁠⁠⁠Regal Unlimited⁠⁠⁠⁠⁠⁠⁠⁠⁠, the all-you-can-watch movie subscription pass that pays for itself in just two visits. Use code NEXTPIC26 for 15% off.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
-      <pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
-      <guid isPermaLink="false">771c7099-d5c2-4522-8d79-b4fe002bb7cd</guid>
-      <enclosure url="https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/d28227f8-56d8-46d9-b2c5-b3d3012db5ab/771c7099-d5c2-4522-8d79-b4fe002bb7cd/audio.mp3?utm_source=Podcast&amp;in_playlist=83c52568-54c6-438a-8751-b3d3012db5c3" length="69129055" type="audio/mpeg" />
-      <itunes:duration>4317</itunes:duration>
-    </item>
-    <item>
-      <title>Conan O’Brien Needs A Friend: Taps with Andy Richter</title>
-      <description>&lt;p&gt;Conan and special guest Andy Richter talk to tap dancer Kenji about the unique qualities of life as a performer in Las Vegas.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Wanna get a chance to talk to Conan? Submit here: &lt;a href="https://teamcoco.com/apply" rel="noopener noreferrer"&gt;&lt;strong&gt;teamcoco.com/apply&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;p&gt;Get access to all the podcasts you love, music channels and radio shows with the SiriusXM App! Get 3 months free using this show link: &lt;a href="https://siriusxm.com/conan"&gt;https://siriusxm.com/conan&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;&lt;br/&gt; &lt;p&gt;Hosted by Simplecast, an AdsWizz company. See &lt;a href="https://pcm.adswizz.com"&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for advertising.&lt;/p&gt;</description>
-      <pubDate>Thu, 12 Nov 2026 05:05:00 +0000</pubDate>
-      <guid isPermaLink="false">170c122d-55f4-4892-8b16-1005c2468dd5</guid>
-      <enclosure url="https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/1a28ce33-c3a8-4edd-847a-52931efabc76/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&amp;awEpisodeId=1a28ce33-c3a8-4edd-847a-52931efabc76&amp;feed=dHoohVNH" length="26619505" type="audio/mpeg" />
-      <itunes:duration>00:27:43</itunes:duration>
+      <title>Stuff You Should Know: The World Needs More Manatees</title>
+      <description>&lt;p&gt;Are there any cuddlier amphibious mammals than manatees in the heavyweight class? No, there aren&amp;rsquo;t. And what makes manatees even better is that their demeanor and approach to life exactly match how they appear - gentle, lazy, caring, and friend to all.&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
+      <pubDate>Thu, 12 Nov 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="false">da2b4202-c37a-4266-a838-b4f801627ec7</guid>
+      <enclosure url="https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/da2b4202-c37a-4266-a838-b4f801627ec7/audio.mp3?utm_source=Podcast&amp;in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e" length="42623152" type="audio/mpeg" />
+      <itunes:duration>2661</itunes:duration>
     </item>
   </channel>
 </rss>
