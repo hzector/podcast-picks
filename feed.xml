@@ -5,11 +5,34 @@
     <description>A personal mix: fresh episodes from Oliver's favorite podcasts, a few at a time, refreshed daily.</description>
     <link>https://github.com/</link>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Nov 2026 14:21:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 14:21:01 +0000</lastBuildDate>
     <itunes:author>Oliver</itunes:author>
     <itunes:summary>A personal mix: fresh episodes from Oliver's favorite podcasts, a few at a time, refreshed daily.</itunes:summary>
     <itunes:explicit>yes</itunes:explicit>
     <itunes:image href="https://raw.githubusercontent.com/hzector/podcast-picks/main/o-fresh-cover.png" />
+    <item>
+      <title>Ignited: Striking Industrial Automation Conversations: From Protocols to Intelligence: How AUTOSOL Is Bridging the Connectivity Gap and Modernizing SCADA for the Long Haul</title>
+      <description>&lt;p&gt;For forty years, AUTOSOL has been the go-to name for pulling data out of legacy oil and gas field devices—solving proprietary protocols, aging RTUs, and unreliable remote communications. In this episode, Travis and Tom sit down with Lisa Clark, Manager of SCADA Solutions at AUTOSOL, to discuss what comes after solving the connectivity gap. Lisa shares how AUTOSOL is applying four decades of field experience to build scalable, maintainable Ignition systems using migration accelerators, AI-assisted design, and a knowledge graph layer built with Thred Cloud—turning SCADA teams from system maintainers into organization-wide data enablers.&lt;/p&gt;
+&lt;p&gt;Guest:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li class="ProsemirrorEditor-listItem"&gt;
+&lt;p&gt;Lisa Clark (Manager of SCADA Solutions, AUTOSOL)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <pubDate>Wed, 25 Nov 2026 04:00:00 -0800</pubDate>
+      <guid isPermaLink="false">ignitedpod.podbean.com/d65eb6c2-85e1-3387-98dc-4c946b7fdbf4</guid>
+      <enclosure url="https://mcdn.podbean.com/mf/web/bj3xujnkymn4zbxb/IGNITED_Episode_28_Autosol.mp3" length="51082023" type="audio/mpeg" />
+      <itunes:duration>2116</itunes:duration>
+    </item>
+    <item>
+      <title>Search Engine: Should I take my money out of the bank? How we got to this cybersecurity crisis.</title>
+      <description>&lt;p&gt;The most asked question we’ve had in months. The story of what happened to get us here, how dangerous things actually are, and what to do now, with cybersecurity expert Alex Stamos.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Alex Stamos on &lt;a target="_blank" rel="noopener noreferrer nofollow" href="https://podcasts.apple.com/us/podcast/ai-broke-the-cybersecurity-world-now-what/id1011668648?i=1000800393703"&gt;Decoder&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a target="_blank" rel="noopener noreferrer nofollow" href="https://merch.ambientinks.com/collections/searchengine"&gt;Check out the new Search Engine merch!&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a target="_blank" rel="noopener noreferrer nofollow" href="https://searchengine.supercast.com/#subscribe"&gt;Sign up to be an Incognito Mode member!&lt;/a&gt;&lt;/p&gt;</description>
+      <pubDate>Wed, 25 Nov 2026 01:50:00 +0000</pubDate>
+      <guid isPermaLink="false">mlK9QW4ZNjbPnJvQfMbmAkt0wD3cUD1e</guid>
+      <enclosure url="https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/9071405/9071405_2026-11-23-235405.192.mp3?rssID=6042" length="76863947" type="audio/mpeg" />
+      <itunes:duration>3202</itunes:duration>
+    </item>
     <item>
       <title>Manufacturing Happy Hour: 312: Beyond Music City: Nashville's Growing Manufacturing and AI Ecosystem (LIVE from Nashville, TN)</title>
       <description>&lt;p&gt;Nashville might be known for its music, but there's more than one kind of talent making its mark on the city. &lt;/p&gt;&lt;p&gt;For this first Nashville recording of Manufacturing Happy Hour, Chris sits down with Simba Jonga, Founder and CEO at Laborup, and Andrew Jebasingh, Founder and CEO at SiteVue AI. Both are building companies focused on manufacturing, using AI to tackle challenges on the factory floor and in the hiring process. &lt;/p&gt;&lt;p&gt;Chris asks what kind of founder and worker Nashville attracts, given its reputation as a city people move to for the lifestyle. Simba points to a young, energized talent base coming through local universities and community colleges. They also discuss why coastal startups scaling production look to Tennessee, and what draws manufacturers there &lt;/p&gt;&lt;p&gt;In this episode, find out: &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Why Simba thinks Tennessee's startup scene has room to grow, and what needs to happen for more founders to stay &lt;/li&gt;&lt;li&gt;How Laborup is finding skilled workers who might never appear on LinkedIn or have a traditional resume &lt;/li&gt;&lt;li&gt;What Andrew saw at an Amazon fulfillment center that made him question how factory workers are measured &lt;/li&gt;&lt;li&gt;How SiteVue AI spotted a problem on a production line that was costing a manufacturer around $1 million a year &lt;/li&gt;&lt;li&gt;Why Andrew believes AI is changing who gets to build software, and why creativity matters more than technical skills &lt;/li&gt;&lt;li&gt;How a chance connection at The Lighthouse brought Andrew and Simba into the same Nashville startup community &lt;/li&gt;&lt;/ul&gt;&lt;br/&gt;&lt;p&gt;&lt;u&gt;&lt;a href="http://manufacturinghappyhour.com/iTunes" rel="noopener noreferrer" target="_blank"&gt;Enjoying the show? Please leave us a review here.&lt;/a&gt;&lt;/u&gt; Even one sentence helps. It’s feedback from Manufacturing All-Stars like you that keeps us going! &lt;/p&gt;&lt;p&gt;Tweetable Quotes: &lt;/p&gt;&lt;ul&gt;&lt;li&gt;“&lt;em&gt;Entrepreneurship doesn’t just live in Silicon Valley or New York. It’s everywhere all across America.&lt;/em&gt;” - Simba Jonga, Founder and CEO at Laborup &lt;/li&gt;&lt;li</description>
@@ -60,6 +83,14 @@
       <guid isPermaLink="false">d601ac02-74a0-40cd-b1f7-313c7ae29d7c</guid>
       <enclosure url="https://pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2b111688-246c-4b06-9e6e-c18015cf7bb1/episodes/8527f4da-46c1-4a13-b674-cb31fa36364a/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=2b111688-246c-4b06-9e6e-c18015cf7bb1&amp;awEpisodeId=8527f4da-46c1-4a13-b674-cb31fa36364a&amp;feed=rP60Wf24" length="43951165" type="audio/mpeg" />
       <itunes:duration>00:45:46</itunes:duration>
+    </item>
+    <item>
+      <title>Planet Money: You Can Seize Everything (The U.S. is reviving pirate law)</title>
+      <description>The U.S. is working on bringing back the ancient maritime practice of prize law — which allowed for privateers, or more recently, navies, to seize enemy-linked ships, and quickly sell them off. &lt;br/&gt;&lt;br/&gt;Why? Well, the U.S. has been seizing lots of big boats — oil tankers linked to Iran and Venezuela — in what the Pentagon calls an effort to disrupt ‘illicit networks.’ But after they seize the big boats, they have a big problem: Boats are very expensive to maintain, and each day the government owns them adds extra costs. So they want to sell off the tankers and the oil inside as soon as possible.&lt;br/&gt;&lt;br/&gt;On today’s show, pirates, some swashbuckling, and an interview with the federal judge tasked with standing up a modern-day prize court. &lt;br/&gt;&lt;br/&gt;&lt;em&gt;Read: &lt;/em&gt;&lt;br&gt;&lt;ul class="rte2-style-ul" style="margin-top:0;margin-bottom:0;padding-inline-start:48px;"&gt;&lt;li&gt;&lt;em&gt;Our book: &lt;/em&gt;&lt;a href="https://lnk.to/i3AukBdD"target="_blank"   &gt;&lt;em&gt;Planet Money: A Guide to the Economic Forces That Shape Your Life&lt;/em&gt;&lt;/a&gt;&lt;em&gt; &lt;/em&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul class="rte2-style-ul" style="margin-top:0;margin-bottom:0;padding-inline-start:48px;"&gt;&lt;li&gt;&lt;em&gt;Our weekly longform &lt;/em&gt;&lt;a href="https://n.pr/3zrFvUB"target="_blank"   &gt;&lt;em&gt;Planet Money newsletter&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;em&gt;Our weekly &lt;/em&gt;&lt;a href="https://www.npr.org/newsletter/indicator"target="_blank"   &gt;&lt;em&gt;Indicator round-up newsletter&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;em&gt;Follow: &lt;/em&gt;&lt;br&gt;&lt;ul class="rte2-style-ul" style="margin-top:0;margin-bottom:0;padding-inline-start:48px;"&gt;&lt;li&gt;&lt;a href="https://n.pr/3FqLuws"target="_blank"   &gt;&lt;em&gt;Instagram&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://n.pr/3sGZdrq"target="_blank"   &gt;&lt;em&gt;TikTok&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://lnk.to/iCVDaW3C"target="_blank"   &gt;&lt;em&gt;YouTube&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://n.pr/3h92GwS"target="_blank"   &gt;&lt;em&gt;Facebook&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;em&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include bonus episodes and sponsor-free listening. Learn mo</description>
+      <pubDate>Fri, 20 Nov 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1fc9b921-fb6f-4af6-88fa-a8bc420fd5fc</guid>
+      <enclosure url="https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d58dad88-3a45-458b-ab87-01448967415e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&amp;awEpisodeId=d58dad88-3a45-458b-ab87-01448967415e&amp;feed=hvWWWzRv&amp;t=podcast&amp;e=nx-s1-6049085&amp;p=510289&amp;d=1475&amp;size=23613527" length="23613527" type="audio/mpeg" />
+      <itunes:duration>1475</itunes:duration>
     </item>
     <item>
       <title>Radiolab: Terminal Delirium</title>
@@ -116,37 +147,12 @@ Learn about your ad choices: &lt;a href="https://dovetail.prx.org/ad-choices"&gt
       <itunes:duration>39:22</itunes:duration>
     </item>
     <item>
-      <title>Conan O’Brien Needs A Friend: Staff Review With Sarah Federowicz</title>
-      <description>&lt;p&gt;Conan sits down with Team Coco COO Sarah Federowicz to discuss her rise from intern to fixer, their earliest interactions, and the power of knowing one's bandwidth.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Wanna get a chance to talk to Conan? Submit here: &lt;a href="https://teamcoco.com/apply" rel="noopener noreferrer"&gt;&lt;strong&gt;teamcoco.com/apply&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;p&gt;Get access to all the podcasts you love, music channels and radio shows with the SiriusXM App! Get 3 months free using this show link: &lt;a href="https://siriusxm.com/conan"&gt;https://siriusxm.com/conan&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;&lt;br/&gt; &lt;p&gt;Hosted by Simplecast, an AdsWizz company. See &lt;a href="https://pcm.adswizz.com"&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for advertising.&lt;/p&gt;</description>
-      <pubDate>Thu, 19 Nov 2026 05:05:00 +0000</pubDate>
-      <guid isPermaLink="false">af313069-c600-42ff-abb6-da697f412f65</guid>
-      <enclosure url="https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cc6fe9b3-45fb-484e-b758-fef69e4ed94d/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&amp;awEpisodeId=cc6fe9b3-45fb-484e-b758-fef69e4ed94d&amp;feed=dHoohVNH" length="24835237" type="audio/mpeg" />
-      <itunes:duration>00:25:52</itunes:duration>
-    </item>
-    <item>
-      <title>The Economics of Everyday Things: 92. Data Centers</title>
-      <description>&lt;p&gt;Where is “the cloud,” anyway? It’s in a bunch of nondescript warehouses all over the country. Zachary Crockett serves up the story.&amp;nbsp; This episode was originally published on May 11th, 2025.&lt;/p&gt;&lt;br/&gt; &lt;p&gt;Hosted by Simplecast, an AdsWizz company. See &lt;a href="https://pcm.adswizz.com"&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for advertising.&lt;/p&gt;</description>
-      <pubDate>Thu, 19 Nov 2026 01:00:00 +0000</pubDate>
-      <guid isPermaLink="false">800527fc-33fb-4949-89d6-9a3bfc1843b7</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/51058430-d98f-4830-b949-5d9a371523ce/episodes/a316cd89-3cc2-4daa-8b44-c6abdc50db4b/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=51058430-d98f-4830-b949-5d9a371523ce&amp;awEpisodeId=a316cd89-3cc2-4daa-8b44-c6abdc50db4b&amp;feed=ob9OSBIN" length="17130307" type="audio/mpeg" />
-      <itunes:duration>00:17:50</itunes:duration>
-    </item>
-    <item>
-      <title>Stuff You Should Know: Short Stuff: How Much Does A Cloud Weigh</title>
-      <description>&lt;p&gt;Yes, clouds have weight &amp;ndash; and a lot of it, too! Find out why and how you can guess the weight of a cloud right from the comfort of your own backyard!&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
-      <pubDate>Wed, 18 Nov 2026 10:00:00 +0000</pubDate>
-      <guid isPermaLink="false">e606278c-ca73-402c-a8cb-b4f60147a1a4</guid>
-      <enclosure url="https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e606278c-ca73-402c-a8cb-b4f60147a1a4/audio.mp3?utm_source=Podcast&amp;in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e" length="10149747" type="audio/mpeg" />
-      <itunes:duration>632</itunes:duration>
-    </item>
-    <item>
-      <title>Filmspotting: Netflix’s A Dog’s Perfect Christmas Is Cozy Tonal Whiplash</title>
-      <description>&lt;p&gt;Matt and Jordan try to make sense of the clashing tones, Hallmark movie conventions, and adorable canines in Netflix&amp;rsquo;s &lt;em&gt;A Dog&amp;rsquo;s Perfect Christmas&lt;/em&gt;. Then they recommend some titles inspired by film, including a familiar but underseen Christmas movie and one of the best films of the &amp;lsquo;80s (that also happens to star &lt;em&gt;A Dog&amp;rsquo;s Perfect Christmas&lt;/em&gt; star Dennis Quaid). In the Listener Request segment, a pair of films that will convince skeptics that film should be considered high art. And Matt hosts a Christmas movie edition of &amp;ldquo;Key Word.&amp;rdquo;&amp;nbsp;&lt;/p&gt; &lt;p&gt;Intro (00:00:00&amp;ndash;00:04:52)&lt;/p&gt; &lt;p&gt;&lt;em&gt;A Dog&amp;rsquo;s Perfect Christmas&lt;/em&gt; (00:04:53&amp;ndash;00:35:26)&lt;/p&gt; &lt;p&gt;Rec Seg! (00:35:27&amp;ndash;00:47:39)&lt;/p&gt; &lt;p&gt;Listener Request Seg: High Art Movies for Movies-as-Art Skeptics (00:47:40&amp;ndash;01:16:58)&lt;/p&gt; &lt;p&gt;Game: &lt;em&gt;&amp;ldquo;Key Chain&amp;rdquo; Christmas Movie Edition&lt;/em&gt; (01:16:59&amp;ndash;01:28:53)&lt;/p&gt; &lt;p&gt;New to Streaming / Credits (01:28:54&amp;ndash;01:41:53)&lt;/p&gt; &lt;p&gt;Show Notes&lt;/p&gt; &lt;p&gt;Now Streaming on Bazooga - A Filmspotting: SVU Archive&lt;a href="https://www.google.com/search?q=https%3A%2F%2Fletterboxd.com%2Fsamvanhallgren%2Flist%2Fnow-streaming-on-bazooga-a-filmspotting-svu%2F"&gt;⁠ https://letterboxd.com/samvanhallgren/list/now-streaming-on-bazooga-a-filmspotting-svu/⁠&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Starlog Magazine: &lt;a href="https://starlog.com/?srsltid=AYCX9vJFKClG8-lhQLIJhXFfc4sdzc_4VaSn9v3-g7ZLXj4jtumHWjCI"&gt;https://starlog.com/?srsltid=AYCX9vJFKClG8-lhQLIJhXFfc4sdzc_4VaSn9v3-g7ZLXj4jtumHWjCI&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Order Matt's book "Funny Business: The Old-School Wedding Crashers and Knocked-Up Virgins Who Changed Comedy Forever" (available now!):&lt;a href="https://www.google.com/search?q=https%3A%2F%2Fwww.penguinrandomhouse.com%2Fbooks%2F790241%2Ffunny-business-by-matt-singer%2F"&gt;⁠&lt;/a&gt;&lt;a href="https://www.penguinrandomhouse.com/books/790241/funny-business-by-matt-singer/%E2%81%A0"&gt; https://www.penguinrandomhouse.com/books/790241/funny-business-by-matt-singer/⁠&lt;/a&gt;&lt;/p</description>
-      <pubDate>Tue, 17 Nov 2026 06:00:00 +0000</pubDate>
-      <guid isPermaLink="false">a7e207d4-3d4a-42e4-99bb-b5050054bb8e</guid>
-      <enclosure url="https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/d28227f8-56d8-46d9-b2c5-b3d3012db5ab/a7e207d4-3d4a-42e4-99bb-b5050054bb8e/audio.mp3?utm_source=Podcast&amp;in_playlist=83c52568-54c6-438a-8751-b3d3012db5c3" length="97940081" type="audio/mpeg" />
-      <itunes:duration>6119</itunes:duration>
+      <title>Filmspotting: Twin Peaks (Pilot) | Archive</title>
+      <description>&lt;p&gt;For this week's Noir-vember Archive drop, we're sharing Adam and Josh's 2020 Sacred Cow review of the &lt;em&gt;Twin Peaks&lt;/em&gt; pilot, which originally aired in April, 1990.&lt;/p&gt; &lt;p&gt;Unlock the full archive, Filmspotting Discord, ad‑free + bonus episodes, and more when you ⁠join &lt;a href="https://filmspotting.supportingcast.fm/join?sc_promo=summer"&gt;the Filmspotting Family⁠&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
+      <pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">fe5e7387-b5ae-4586-89ac-b50600316f67</guid>
+      <enclosure url="https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/d28227f8-56d8-46d9-b2c5-b3d3012db5ab/fe5e7387-b5ae-4586-89ac-b50600316f67/audio.mp3?utm_source=Podcast&amp;in_playlist=83c52568-54c6-438a-8751-b3d3012db5c3" length="28794634" type="audio/mpeg" />
+      <itunes:duration>1797</itunes:duration>
     </item>
   </channel>
 </rss>
